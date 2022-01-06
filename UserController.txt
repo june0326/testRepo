@@ -12,4 +12,8 @@ public class UserController {
 		// 로그인 메소드
 	}
 
+	public String something() {
+		// 만들어선 안됐을 기능...
+	}
+
 }
