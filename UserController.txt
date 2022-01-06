@@ -1,3 +1,9 @@
 public class UserController {
+
    sysout(....  );
+
+	public String join() {
+		// 회원 가입 메소드
+	}
+
 }
