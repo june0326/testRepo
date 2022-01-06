@@ -1,5 +1,11 @@
 public class UserController {
+	@RequestMapping(...)
 	public String join() {
 		// 회원 가입 메소드
+	}
+
+	@RequestMapping(...)
+	public String login() {
+		// 로그인 메소드
 	}
 }
