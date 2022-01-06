@@ -1,3 +1,5 @@
 public class UserController {
-	hello
+	public String join() {
+		// 회원 가입 메소드
+	}
 }
